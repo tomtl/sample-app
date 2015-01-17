@@ -1,0 +1,27 @@
+Run options: --seed 50543
+
+# Running:
+
+EE
+
+Finished in 0.732142s, 2.7317 runs/s, 0.0000 assertions/s.
+
+  1) Error:
+UsersLoginTest#test_login_with_invalid_information:
+ActionView::Template::Error: undefined method `nil' for nil:NilClass
+    app/helpers/sessions_helper.rb:15:in `logged_in?'
+    app/views/layouts/_header.html.erb:8:in `_app_views_layouts__header_html_erb__1476018873096994669_28883060'
+    app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb___4065059145686858996_63090320'
+    test/integration/users_login_test.rb:10:in `block in <class:UsersLoginTest>'
+
+
+  2) Error:
+UsersLoginTest#test_login_with_valid_information:
+ActionView::Template::Error: undefined method `nil' for nil:NilClass
+    app/helpers/sessions_helper.rb:15:in `logged_in?'
+    app/views/layouts/_header.html.erb:8:in `_app_views_layouts__header_html_erb__1476018873096994669_28883060'
+    app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb___4065059145686858996_63090320'
+    test/integration/users_login_test.rb:20:in `block in <class:UsersLoginTest>'
+
+2 runs, 0 assertions, 0 failures, 2 errors, 0 skips
+]2;[Minitest results] 2 tests
