@@ -5,5 +5,5 @@ This is the sample application for the
 Learn Web Development with Rails*] (http://www.railstutorial.org/)
 by Tom Lee.
 
-Bookmark: 9.3 Showing all users
-https://www.railstutorial.org/book/updating_and_deleting_users#sec-showing_all_users
+Bookmark: 10.1.4 Activation test and refactoring
+https://www.railstutorial.org/book/account_activation_password_reset#sec-activation_test_and_refactoring
