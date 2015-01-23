@@ -5,5 +5,5 @@ This is the sample application for the
 Learn Web Development with Rails*] (http://www.railstutorial.org/)
 by Tom Lee.
 
-Bookmark: 10.1.4 Activation test and refactoring
-https://www.railstutorial.org/book/account_activation_password_reset#sec-activation_test_and_refactoring
+Bookmark: 11.2 Showing microposts
+https://www.railstutorial.org/book/user_microposts#sec-showing_microposts
