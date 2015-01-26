@@ -5,5 +5,5 @@ This is the sample application for the
 Learn Web Development with Rails*] (http://www.railstutorial.org/)
 by Tom Lee.
 
-Bookmark: 11.2 Showing microposts
-https://www.railstutorial.org/book/user_microposts#sec-showing_microposts
+Bookmark: 12.2.2 Stats and a follow form
+https://www.railstutorial.org/book/following_users#sec-stats_and_a_follow_form
